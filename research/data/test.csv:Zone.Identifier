@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://quantchallenge.org/
+HostUrl=https://prediction-submissions.s3.us-east-1.amazonaws.com/quant_challenge_2025_09/data/test.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAWAITLQNW62DPNJ5O%2F20250922%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250922T003923Z&X-Amz-Expires=3600&X-Amz-Signature=5ddb04bbf0961aee0a435ac2867c544276c0ecd9347222ae9819f5e7cfe054a8&X-Amz-SignedHeaders=host&response-content-disposition=attachment&x-amz-checksum-mode=ENABLED&x-id=GetObject
